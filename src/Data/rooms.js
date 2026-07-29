@@ -1,0 +1,40 @@
+const rooms = [
+  {
+    id: 1,
+    title: "Modern PG",
+    city: "Pune",
+    type: "Boys PG",
+    beds: "2 Beds",
+    wifi: "Free WiFi",
+    food: "Food Included",
+    price: "₹8000/month",
+    rating: "4.8",
+    image: "https://picsum.photos/400/250?random=1",
+  },
+  {
+    id: 2,
+    title: "Girls Hostel",
+    city: "Mumbai",
+    type: "Girls Hostel",
+    beds: "2 Beds",
+    wifi: "Free WiFi",
+    food: "Food Included",
+    price: "₹6500/month",
+    rating: "4.9",
+    image: "https://picsum.photos/400/250?random=2",
+  },
+  {
+    id: 3,
+    title: "Shared Flat",
+    city: "Nagpur",
+    type: "Shared Flat",
+    beds: "2 Beds",
+    wifi: "Free WiFi",
+    food: "Food Included",
+    price: "₹10000/month",
+    rating: "4.7",
+    image: "https://picsum.photos/400/250?random=3",
+  },
+];
+
+export default rooms;
